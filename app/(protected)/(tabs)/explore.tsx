@@ -1,9 +1,9 @@
 import { Text, View } from "react-native";
 
-export default function NotFoundScreen() {
+export default function Explore() {
   return (
     <View>
-      <Text>Not Found</Text>
+      <Text>Explore</Text>
     </View>
   );
 }
