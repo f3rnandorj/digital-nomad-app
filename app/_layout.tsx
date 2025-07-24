@@ -40,8 +40,9 @@ export default function RootLayout() {
 
         <Stack.Screen name="sign-in" />
         <Stack.Screen name="+not-found" />
-        <StatusBar style="auto" />
       </Stack>
+
+      <StatusBar style="auto" />
     </ThemeProvider>
   );
 }
